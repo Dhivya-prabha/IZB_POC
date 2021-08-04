@@ -14,7 +14,7 @@ public class Retail_Web_Accounts010 extends TestNgHooks {
 	void setReportDetails() {
 		testCaseName = "Statement - Last 3 Months Transaction";
 		testDescription = "Verify if the transactions of the last 3 months is displayed";
-		authors = "Sheriba";
+		authors = "Dhivya";
 		nodes = "Retail";
 		category = "Accounts-Statements";
 	}
