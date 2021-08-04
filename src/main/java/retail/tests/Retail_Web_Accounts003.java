@@ -12,7 +12,7 @@ public class Retail_Web_Accounts003 extends TestNgHooks {
 	void setReportDetails() {
 		testCaseName = "Accounts - Account Number";
 		testDescription = "Check if the account number is displayed";
-		authors = "Sheriba";
+		authors = "Dhivya";
 		nodes = "Retail";
 		category = "Accounts-MainPage";
 	}
