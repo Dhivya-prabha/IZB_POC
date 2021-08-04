@@ -12,7 +12,7 @@ public class InstantTransferVerification extends TestNgHooks {
 	void setReportDetails() {
 		testCaseName = "Account - Instant Transaction";
 		testDescription = "Verify available balance for Instant transaction";
-		authors = "Hari";
+		authors = "Dhivya";
 		nodes = "Retail";
 		category = "Accounts-Quick Pay";
 	}
