@@ -11,7 +11,7 @@ package retail.tests;
 		void setReportDetails() {
 			testCaseName = "Statement - CurrentMonth Transaction";
 			testDescription = "Verify if the transactions of the current month is displayed";
-			authors = "Sheriba";
+			authors = "Dhivya";
 			nodes = "Retail";
 			category = "Accounts-Statements";
 		}
