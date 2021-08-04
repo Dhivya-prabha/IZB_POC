@@ -12,7 +12,7 @@ public class Retail_Web_Accounts011 extends TestNgHooks {
 	void setReportDetails() {
 		testCaseName = "Statement - Custom Dates Transaction";
 		testDescription = "Verify if the transaction is between the given dates";
-		authors = "Sheriba";
+		authors = "Dhivya";
 		nodes = "Retail";
 		category = "Accounts-Statements";
 	}
