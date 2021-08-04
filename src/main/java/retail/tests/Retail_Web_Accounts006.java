@@ -12,7 +12,7 @@ public class Retail_Web_Accounts006 extends TestNgHooks {
 	void setReportDetails() {
 		testCaseName = "Statement - Last 10 Transactions";
 		testDescription = "Check for the display of the last 10 transactions";
-		authors = "Sheriba";
+		authors = "Dhivya";
 		nodes = "Retail";
 		category = "Accounts-Statements";
 	}
