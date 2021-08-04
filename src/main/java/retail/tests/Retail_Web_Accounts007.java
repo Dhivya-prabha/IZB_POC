@@ -12,7 +12,7 @@ public class Retail_Web_Accounts007 extends TestNgHooks {
 	void setReportDetails() {
 		testCaseName = "Statement - Transaction details";
 		testDescription = "Check if the transaction detail is displayed for individual transactions";
-		authors = "Sheriba";
+		authors = "Dhivya";
 		nodes = "Retail";
 		category = "Accounts-Statements";
 	}
