@@ -12,7 +12,7 @@ public class Retail_Web_Accounts002 extends TestNgHooks {
 	void setReportDetails() {
 		testCaseName = "Accounts - Available Balance";
 		testDescription = "Check if the available balance of the account is dispalyed";
-		authors = "Sheriba";
+		authors = "Dhivya";
 		nodes = "Retail";
 		category = "Accounts-MainPage";
 	}
