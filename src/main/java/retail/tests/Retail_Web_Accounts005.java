@@ -12,7 +12,7 @@ public class Retail_Web_Accounts005 extends TestNgHooks {
 	void setReportDetails() {
 		testCaseName = "Statement - Shortcuts displayed";
 		testDescription = "Check if the shortcut menu buttons are available in the statement page also";
-		authors = "Sheriba";
+		authors = "Dhivya";
 		nodes = "Retail";
 		category = "Accounts-Statements";
 	}
