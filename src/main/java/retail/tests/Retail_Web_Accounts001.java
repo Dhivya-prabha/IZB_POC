@@ -16,7 +16,7 @@ package retail.tests;
 		void setReportDetails() {
 			testCaseName = "Accounts - UI Validation";
 			testDescription = "Click on accounts and validate the display of all options";
-			authors = "Sheriba";
+			authors = "Dhivya";
 			nodes = "Retail";
 			category = "Accounts";
 		}
